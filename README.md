@@ -168,4 +168,4 @@ Built a Windows Task Scheduler job mirroring Section 3's cron automation. Hit a 
 
 ## Overall Reflections
 
-This project was built hands-on, end to end, including the setbacks — networking failures, permission errors, and a real PowerShell syntax bug are documented here because they happened, not edited out for a cleaner narrative. Troubleshooting through genuine problems, rather than following a script that worked on the first try, is what this project is actually meant to demonstrate.
+This project was built hands-on from end to end, with a focus on practical administration, troubleshooting, verification, and documentation. Each section combines the underlying concepts with practical implementation and evidence of the results. The project also demonstrates the ability to investigate unexpected behavior, identify causes, apply appropriate solutions, and verify that the resulting configuration works as intended.
